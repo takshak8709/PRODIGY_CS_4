@@ -52,15 +52,6 @@ This script is intended for educational purposes only. Misuse of keylogging soft
 License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-Contact
-If you have any questions or feedback, feel free to open an issue or contact me at your-email@example.com.
-
-Happy coding!
-
-css
-Copy code
-
-Feel free to replace the email address and adjust any other details as needed!
 
 
 
